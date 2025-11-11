@@ -30,7 +30,7 @@ set(SOURCES
 set(HEADERS
     extern/scripthookv/inc/main.h
     extern/scripthookv/inc/enums.h
-    extern/scripthookv/inc/natives.hpp
+    extern/scripthookv/inc/natives.h
     extern/scripthookv/inc/types.h
     src/keyboard.h
     src/script.h
