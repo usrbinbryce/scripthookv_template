@@ -2,7 +2,6 @@
 build/
 out/
 bin/
-lib/
 
 # CMake
 CMakeCache.txt
@@ -41,7 +40,6 @@ _deps/
 *.exe
 *.dll
 *.asi
-*.lib
 *.a
 *.so
 *.dylib
@@ -84,4 +82,3 @@ Thumbs.db
 
 # Logs
 *.log
-
